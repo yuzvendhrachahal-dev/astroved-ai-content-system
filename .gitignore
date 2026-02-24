@@ -7,9 +7,9 @@ __pycache__/
 *.pyc
 
 # FAISS index files
-data/services_index.bin
-data/services_meta.json
-data/astroved_links.json
+# data/services_index.bin
+# data/services_meta.json
+# data/astroved_links.json
 
 # OS files
 .DS_Store
