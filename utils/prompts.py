@@ -77,17 +77,3 @@ Return only the final structured article in Markdown format.
 """
 
     return base
-
-# astroved creats large amount of contents, blogs for festivals and events
-# now it is created manually,it is very time consuming and seo is challenging
-
-# i ill automate it with help of AI
-# train the ai model to understand the structure, keyword, tone of existing astroved pages
-# and it ill generate new blogs which is SEO optimized in minutes 
-# seo rules and recent trends has been feeded to AI 
-# so it generates contents with effective manner 
-# also it ill gives recommendations of our poojas/homas/services that relavant to the content
-# when people search about some words in browser which is related to astrology, using SEO our web ill comes top 
-# it ill help people engagement with our pages and they ill see our products and there is a higher chance to buy it 
-# and it brings more users for our company
-# """
