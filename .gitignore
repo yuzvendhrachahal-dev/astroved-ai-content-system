@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# FAISS index files
+data/services_index.bin
+data/services_meta.json
+data/astroved_links.json
+
+# OS files
+.DS_Store
+Thumbs.db
