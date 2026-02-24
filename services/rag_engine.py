@@ -107,3 +107,6 @@ def get_best_service(query, *args, **kwargs):
     """
     results = retrieve_recommendations(query, top_k=1, min_results=1)
     return results[0] if results else None
+
+print("INDEX LOADED:", index is not None)
+print("METADATA COUNT:", len(metadata))
